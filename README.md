@@ -12,7 +12,8 @@ I am a passionate AI and ML enthusiast with a strong interest in NLP and Retriev
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitnoob101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gitnoob101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🐍 GitHub Contribution Snake
-![GitHub Snake Animation](https://raw.githubusercontent.com/gitnoob101/gitnoob101/output/snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/gitnoob101/gitnoob101/output/github-snake.svg)
+
 
 
 
